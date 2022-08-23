@@ -6,7 +6,7 @@ This repo creates a portfolio using React skills and demonstrateds the use of th
 
 ## Deployed Application
 
-![Simple Portfolio Page!](/src/assets/Screenshot 2022-08-23 at 20.39.35.png)
+![React Portfolio Page!](/assets/Screenshot 2022-08-23 at 20.39.35.png)
 
 This application is deployed to GitHub Pages. [Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages)
 
